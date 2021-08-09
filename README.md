@@ -3,7 +3,7 @@ keynav
 
 Control the mouse with the keyboard.
 
-Please see http://www.semicomplete.com/projects/keynav
+Original project: http://www.semicomplete.com/projects/keynav
 
 Trevor's (@Trevcan) fork of keynav.
 
