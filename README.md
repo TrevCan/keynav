@@ -1,9 +1,25 @@
 keynav
-======
+================
 
 Control the mouse with the keyboard.
 
 Please see http://www.semicomplete.com/projects/keynav
+
+Trevor's (@Trevcan) fork of keynav.
+
+# TODO
+- add basic modes (just like `vim`)
+- add way to scroll (e.g. press `s` to enter into scroll mode) j,k to scroll up and down. h,l to scroll sideways.\ 
+Use capital letters to increase multiplier of scroll numbers.\
+Add no need to 'click' or forcibly focus window, just scroll to the window which has the cross and then - if the
+user was on another window - select the previous window.
+- add way to select grids (maybe `g` ?) (just like in one of the examples) but select them with j,k,h,l and then press enter
+
+
+also...
+   make a ZoomIt port to linux (X server)
+
+   https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit
 
 
 Compiling
