@@ -79,3 +79,21 @@ libxinerama-dev
 libglib2.0-dev
 libcairo2-dev
 libxdo-dev
+
+## Tree
+
+keynav
+├── CHANGELIST
+├── examples
+│   ├── keynavrc
+│   └── keynavrc.jordan
+├── keynav.c
+├── keynav.pod
+├── LICENSE
+├── Makefile
+├── README.md
+├── test.sh
+├── TODO
+└── version.sh
+
+1 directory, 11 files
